@@ -17,8 +17,9 @@ Link do curso: <https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
-
+https://vitejs.dev/
 - [React](https://pt-br.reactjs.org/)
+- [Vite](https://vitejs.dev/)
 - [Prettier](https://prettier.io/)
 - [Typescript](https://www.typescriptlang.org/)
 - [React Router](https://v5.reactrouter.com/web/guides/quick-start/)
