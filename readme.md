@@ -12,7 +12,6 @@
 $ npm create vite@latest projeto-react-router-dom-v6 -- --template react-ts<br />
 $ npm i react-router-dom@6
 
-Obs: A pasta <b>aula</b> é aonde que contém toda à materia praticada sobre os hooks durante o curso de react da udemy;<br />
 Link do curso: <https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/>
 
 ### 🛠 Tecnologias
